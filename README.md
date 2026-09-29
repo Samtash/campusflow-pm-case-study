@@ -1,33 +1,44 @@
-# campusflow-pm-case-study
+# CampusFlow: PM Case Study
 
-A product management case study exploring how college and university students manage their academic and personal responsibilities.
+A product management case study on how college and university students manage academic and personal responsibilities.
+
+**Status:**  In progress. Step 1 (Problem Discovery) is complete. User research is next.
 
 ## Step 1: Problem Discovery
 
-### Target User
+**Target user**
+College and university students who independently manage multiple academic and personal responsibilities alongside their everyday lives.
 
-College and university students who are independently managing multiple academic and personal responsibilities alongside their everyday lives.
+**Main problem**
+Students struggle to keep track of their academic and personal responsibilities when multiple deadlines and commitments compete for their attention.
 
-### Main Problem
+**Why it happens**
+Information is spread across learning management systems, messaging apps, calendars, notes and other tools, so students have no single clear overview of what they need to do.
 
-Students may struggle to keep track of their academic and personal responsibilities when they have multiple deadlines and commitments competing for their attention.
+**Consequences**
+- Missed or reduced academic marks
+- Last-minute work and increased pressure
+- Conflicts between academic and personal commitments
+- Important personal tasks or appointments forgotten
+- Difficulty prioritising what needs attention first
 
-### Why It Happens
+**Problem scope**
+How students manage academic and personal responsibilities together, especially when deadlines and commitments compete.
 
-Academic and personal information is often spread across multiple platforms and places, such as learning management systems, messaging apps, calendars, notes, and other tools. This can make it difficult for students to maintain one clear overview of everything they need to do.
+> These are initial hypotheses and will be validated through user research.
 
-### Consequence
+## Research Plan (next)
+- Interview 22 students from different universities about how they track deadlines today
+- Run a short survey on the tools students use and how often they miss deadlines
+- Compare existing solutions (e.g. Google Calendar, Notion, Todoist, LMS reminders)
 
-Overlooked information can lead to missed or late deadlines and commitments, which may result in:
+## Roadmap
+- [x] Step 1: Problem discovery
+- [ ] Step 2: User research and validation
+- [ ] Step 3: Competitor analysis
+- [ ] Step 4: Define user needs and prioritise features
+- [ ] Step 5: Wireframes / prototype
+- [ ] Step 6: Success metrics and next steps
 
-* Missed or reduced academic marks
-* Last-minute work and increased pressure
-* Conflicts between academic and personal commitments
-* Important personal tasks or appointments being forgotten
-* Difficulty prioritizing what needs attention first
-
-### Problem Scope
-
-This case study will explore how college and university students manage academic and personal responsibilities together, particularly when multiple deadlines and commitments compete for their attention.
-
-**Note:** These are initial problem hypotheses and will be validated through user research.
+## Author
+Samiha Tasnim Diba · CSE, North South University
